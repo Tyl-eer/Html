@@ -1,0 +1,17 @@
+.hero{
+    background-image: url("../../assets/images/img_snow.jpg");
+}
+.form{
+    width: 200px;
+    height:400px;
+    border:red;
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    white-space: normal;
+}
+.text{
+    padding: 1px;
+    text-align: center;
+    text-decoration-color: red;
+}
